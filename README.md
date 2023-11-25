@@ -17,3 +17,5 @@ or Run by docker compose
 
 test
 
+# adding to git 
+some files to learn 
